@@ -5,6 +5,7 @@ publication_types:
   - "0"
 authors:
   - Harry Koos
+publication: for MS&E 292 - Health Policy Modeling
 draft: false
 featured: false
 image:
