@@ -1,21 +1,10 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: Biography
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
+I am a PhD student in Health Policy (focus in Health Economics) at the Stanford University School of Medicine. My research interests include pricing and market competition among hospitals, innovation and adoption of medical technologies, and wasted spending in the U.S. healthcare system.
