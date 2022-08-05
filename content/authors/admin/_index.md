@@ -24,20 +24,20 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/harrisonkoos/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Stanford University - Department of Health Policy
+    url: https://healthpolicy.fsi.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Health Policy (Health Economics)
       institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+      year: 2026
+    - course: MS in Management Science & Engineering
+      institution: Stanford University
+      year: 2022
+    - course: BS in Industrial Engineering
+      institution: Cal Poly, San Luis Obispo
+      year: 2020
+email: hkoos@stanford.edu
 superuser: true
 highlight_name: true
 ---
