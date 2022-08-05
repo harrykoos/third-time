@@ -2,8 +2,8 @@
 widget: pages
 widget_id: academic-work
 headless: true
-weight: 80
-title: Academic Work
+weight: 85
+title: Academic Work2
 subtitle: ""
 active: false
 content:
